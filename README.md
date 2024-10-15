@@ -1,2 +1,2 @@
 # JGo
-This is a small cli for the bash shell that simulates the ancient chinese game of go.
+This is a small cli written in java that simulates the ancient chinese game of go.
